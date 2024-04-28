@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm y-ryota</h1>
 <h3 align="center">A developer from Japan.</h3>
 
-<p><img align="left" src="https://github-profile-lemon-nine.vercel.app/api/top-langs?username=y-ryota&count_private=true&show_icons=true&locale=en&layout=compact" alt="y-ryota" /></p>
+<p><img align="left" src="https://github-profile-2zhs.vercel.app/api/top-langs?username=y-ryota&count_private=true&show_icons=true&locale=en&layout=compact" alt="y-ryota" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=y-ryota&show_icons=true&locale=en" alt="y-ryota" /></p>
 
