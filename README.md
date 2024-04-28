@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y-ryota)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-profile-lemon-nine.vercel.app/api?username=y-ryota&count_private=true)
